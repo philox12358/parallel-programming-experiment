@@ -172,6 +172,19 @@
   <img src="images\001.png#pic_center" width="85%" alt="标题"/>
   </div>
 
+#### 8、搭建mpi并行运算中遇到的问题与解决方案
+
+[排除bug](https://blog.csdn.net/Fangrn/article/details/83770816)
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>写在最后</summary>
 - 本笔记只是课程知识量很小的一部分，详细且全面的内容请查阅老师发的实验手册。
@@ -180,7 +193,7 @@
 - 感谢提出意见的同学，感谢雷老师和赖师兄的精彩讲课！
 </details>
 
-
+- [ ] 学会了吗?
 
 ### Reference
 
