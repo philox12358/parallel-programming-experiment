@@ -24,9 +24,9 @@
   | 可扩展性 |  较好  |  较差  |
 
 
-#### 2、远程登录方式
+#### 2、登录高性能核心
 
-- `minicom` ：主要用于修改 ` IP`  地址，修改密码等。
+- `minicom` ：主要用于修改 ` IP`  地址，修改密码等。（`  已失效  `）
 
   ```
   进入方式：首先选择进入的核心编号 `gpio number` ，再输入minicom。
@@ -48,7 +48,7 @@
 >
 >  ```
 >   scp /path/file  User@host:/LocalPathorFile      //这是标准语句格式
->   scp rank_sort.c root@192.168.100.1:/root         //这是实际用例。上传到主目录的root文件夹
+>   scp rank_sort.c sdbox@192.168.100.1:/root         //这是实际用例。上传到主目录的root文件夹
 >  ```
 >
 >- 此时进入高性能核心，如有必要，请修改 `mpd.hosts` 文件
